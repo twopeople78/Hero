@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.log
+four/diagnostics/
+four/four_profiles.json
+four/four_session.json
+four/hunting_floors.json
+four/telegram_alerts.json
+.env
+.env.*
